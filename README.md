@@ -6,7 +6,7 @@ Masked Encoding Decoding (MED) employs a non-autoregressive generation (NAG) met
 
 If you use this code in your research, please cite the following paper:
 
-Xu, Z., & Leung, J. Y. (2024). Dynamic Real-Time Production Forecasting Model for Complex Subsurface Flow Systems with Variable-Length Input Sequences.
+[Xu, Z., & Leung, J. Y. (2024). Dynamic Real-Time Production Forecasting Model for Complex Subsurface Flow Systems with Variable-Length Input Sequences. SPE J.](https://doi.org/10.2118/221482-PA)
 
 ## Introduction
 
